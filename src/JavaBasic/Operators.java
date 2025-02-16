@@ -25,6 +25,7 @@ public class Operators {
 	System.out.println(x!=y);//true
 	System.out.println(x==y);//false
 	*/
+//		hello comment
 //	Logical Operators 
 //	It's return type will also be boolean
 	/*boolean a= true;
