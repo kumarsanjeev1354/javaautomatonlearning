@@ -7,7 +7,7 @@ public class Myoperatorspractice {
 int x=50;
 int y=x++;
 System.out.println(y);
-System.out.println(x);
+System.out.println(x);//updated
 	}
 
 }
