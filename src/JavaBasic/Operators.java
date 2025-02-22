@@ -65,7 +65,7 @@ public class Operators {
 		int r=--q;//value 
 		System.out.println("value of r before after pre decrement"+r);//17
 		System.out.println("Value of q after pre decrement"+q);//17
-		
+		//test operator
 	
 	}
 
